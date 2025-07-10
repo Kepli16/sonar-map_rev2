@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Image Overlays</name>
+    <GroundOverlay>
+      <Icon>
+        <href>images/T000L.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>36.6</north>
+        <south>36.4</south>
+        <east>-121.9</east>
+        <west>-122.1</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <Icon>
+        <href>images/T001L.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>36.6</north>
+        <south>36.4</south>
+        <east>-121.8</east>
+        <west>-122.0</west>
+      </LatLonBox>
+    </GroundOverlay>
+  </Folder>
+</kml>
